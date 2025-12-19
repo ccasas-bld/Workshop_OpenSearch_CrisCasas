@@ -1,0 +1,1000 @@
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T08:21:48-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_021", "usuario": "user_021", "ip": "192.168.1.188"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T14:00:17-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_097", "usuario": "user_097", "ip": "192.168.1.164"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T14:31:52-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_080", "usuario": "user_080", "ip": "192.168.1.62"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T06:59:21-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_034", "usuario": "user_034", "ip": "192.168.1.35"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T18:45:31-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_085", "usuario": "user_085", "ip": "192.168.1.155"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T19:14:40-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_056", "usuario": "user_056", "ip": "192.168.1.251"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T20:44:18-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_090", "usuario": "user_090", "ip": "192.168.1.13"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T12:36:27-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_033", "usuario": "user_033", "ip": "192.168.1.186"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T12:46:23-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_016", "usuario": "user_016", "ip": "192.168.1.151"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T19:21:07-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_097", "usuario": "user_097", "ip": "192.168.1.195"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T06:21:44-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_027", "usuario": "user_027", "ip": "192.168.1.21"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T20:42:22-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_081", "usuario": "user_081", "ip": "192.168.1.64"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T04:10:33-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_045", "usuario": "user_045", "ip": "192.168.1.56"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T01:56:54-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_070", "usuario": "user_070", "ip": "192.168.1.153"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T02:58:55-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_070", "usuario": "user_070", "ip": "192.168.1.94"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T23:50:14-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_029", "usuario": "user_029", "ip": "192.168.1.132"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T14:24:53-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_083", "usuario": "user_083", "ip": "192.168.1.203"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T01:19:55-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_033", "usuario": "user_033", "ip": "192.168.1.144"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T19:57:31-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_078", "usuario": "user_078", "ip": "192.168.1.89"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T07:31:28-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_027", "usuario": "user_027", "ip": "192.168.1.8"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:39:35-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_030", "usuario": "user_030", "ip": "192.168.1.16"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T18:40:30-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_028", "usuario": "user_028", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T02:16:12-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_012", "usuario": "user_012", "ip": "192.168.1.223"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T21:48:38-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_033", "usuario": "user_033", "ip": "192.168.1.69"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T07:35:20-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_057", "usuario": "user_057", "ip": "192.168.1.155"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:03:05-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_019", "usuario": "user_019", "ip": "192.168.1.252"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T22:43:20-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_070", "usuario": "user_070", "ip": "192.168.1.155"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T23:34:32-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_017", "usuario": "user_017", "ip": "192.168.1.50"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T23:41:11-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_030", "usuario": "user_030", "ip": "192.168.1.119"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T17:27:18-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_034", "usuario": "user_034", "ip": "192.168.1.128"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:42:34-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_093", "usuario": "user_093", "ip": "192.168.1.176"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T14:33:25-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_009", "usuario": "user_009", "ip": "192.168.1.110"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T10:23:31-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_078", "usuario": "user_078", "ip": "192.168.1.77"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T19:33:36-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_066", "usuario": "user_066", "ip": "192.168.1.138"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T20:42:50-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_013", "usuario": "user_013", "ip": "192.168.1.225"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T20:51:01-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_002", "usuario": "user_002", "ip": "192.168.1.202"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:27:57-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_050", "usuario": "user_050", "ip": "192.168.1.214"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T16:55:51-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_057", "usuario": "user_057", "ip": "192.168.1.230"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T08:55:30-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_060", "usuario": "user_060", "ip": "192.168.1.116"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T08:46:55-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_052", "usuario": "user_052", "ip": "192.168.1.179"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T11:29:24-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_052", "usuario": "user_052", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T15:39:17-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_011", "usuario": "user_011", "ip": "192.168.1.57"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T20:50:18-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_046", "usuario": "user_046", "ip": "192.168.1.218"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T01:03:43-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_045", "usuario": "user_045", "ip": "192.168.1.33"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T16:19:42-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_033", "usuario": "user_033", "ip": "192.168.1.65"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T11:24:09-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_021", "usuario": "user_021", "ip": "192.168.1.43"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T11:51:05-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_069", "usuario": "user_069", "ip": "192.168.1.70"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T17:03:54-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_032", "usuario": "user_032", "ip": "192.168.1.64"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T22:45:16-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_045", "usuario": "user_045", "ip": "192.168.1.186"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T19:16:04-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_015", "usuario": "user_015", "ip": "192.168.1.44"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T05:01:55-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_066", "usuario": "user_066", "ip": "192.168.1.195"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T01:17:12-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_033", "usuario": "user_033", "ip": "192.168.1.219"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T10:21:39-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_030", "usuario": "user_030", "ip": "192.168.1.83"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T10:39:44-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_020", "usuario": "user_020", "ip": "192.168.1.23"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T15:57:31-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_082", "usuario": "user_082", "ip": "192.168.1.74"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T07:39:26-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_092", "usuario": "user_092", "ip": "192.168.1.128"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T08:20:24-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_071", "usuario": "user_071", "ip": "192.168.1.93"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T02:44:17-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_042", "usuario": "user_042", "ip": "192.168.1.182"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T13:49:52-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_075", "usuario": "user_075", "ip": "192.168.1.82"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T23:55:55-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_090", "usuario": "user_090", "ip": "192.168.1.222"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T23:57:25-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_043", "usuario": "user_043", "ip": "192.168.1.115"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T16:14:44-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_069", "usuario": "user_069", "ip": "192.168.1.45"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T09:07:48-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_067", "usuario": "user_067", "ip": "192.168.1.116"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T21:59:12-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_060", "usuario": "user_060", "ip": "192.168.1.242"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T12:26:15-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_059", "usuario": "user_059", "ip": "192.168.1.18"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T23:44:04-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_001", "usuario": "user_001", "ip": "192.168.1.53"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T03:36:00-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_052", "usuario": "user_052", "ip": "192.168.1.196"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T19:04:24-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_011", "usuario": "user_011", "ip": "192.168.1.133"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:26:22-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_100", "usuario": "user_100", "ip": "192.168.1.14"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T10:14:19-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_018", "usuario": "user_018", "ip": "192.168.1.12"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T08:33:36-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_090", "usuario": "user_090", "ip": "192.168.1.245"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T10:35:58-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_068", "usuario": "user_068", "ip": "192.168.1.37"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T15:56:27-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_040", "usuario": "user_040", "ip": "192.168.1.28"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T01:59:34-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_099", "usuario": "user_099", "ip": "192.168.1.24"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T20:35:26-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_036", "usuario": "user_036", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T03:01:33-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_014", "usuario": "user_014", "ip": "192.168.1.31"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T05:59:43-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_025", "usuario": "user_025", "ip": "192.168.1.178"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:38:19-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_082", "usuario": "user_082", "ip": "192.168.1.187"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T18:43:37-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_004", "usuario": "user_004", "ip": "192.168.1.216"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T18:31:28-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_048", "usuario": "user_048", "ip": "192.168.1.212"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T23:20:24-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_035", "usuario": "user_035", "ip": "192.168.1.138"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T09:07:23-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_073", "usuario": "user_073", "ip": "192.168.1.220"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T13:46:16-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_082", "usuario": "user_082", "ip": "192.168.1.187"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T16:29:52-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_087", "usuario": "user_087", "ip": "192.168.1.80"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T23:27:42-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_004", "usuario": "user_004", "ip": "192.168.1.169"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T22:29:08-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_085", "usuario": "user_085", "ip": "192.168.1.153"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T21:12:20-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_082", "usuario": "user_082", "ip": "192.168.1.198"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T22:07:50-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_059", "usuario": "user_059", "ip": "192.168.1.71"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T15:15:37-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_049", "usuario": "user_049", "ip": "192.168.1.136"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:05:40-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_047", "usuario": "user_047", "ip": "192.168.1.241"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T00:17:54-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_066", "usuario": "user_066", "ip": "192.168.1.29"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T17:32:57-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_013", "usuario": "user_013", "ip": "192.168.1.106"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T03:28:54-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_021", "usuario": "user_021", "ip": "192.168.1.220"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T20:46:20-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_089", "usuario": "user_089", "ip": "192.168.1.188"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T17:04:46-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_075", "usuario": "user_075", "ip": "192.168.1.247"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T10:01:35-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_014", "usuario": "user_014", "ip": "192.168.1.32"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T11:59:27-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_013", "usuario": "user_013", "ip": "192.168.1.211"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T20:32:36-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_035", "usuario": "user_035", "ip": "192.168.1.189"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T16:16:38-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_068", "usuario": "user_068", "ip": "192.168.1.124"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T11:17:02-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_020", "usuario": "user_020", "ip": "192.168.1.14"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T13:57:36-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_099", "usuario": "user_099", "ip": "192.168.1.141"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:31:35-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_084", "usuario": "user_084", "ip": "192.168.1.223"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T15:28:06-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_043", "usuario": "user_043", "ip": "192.168.1.91"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T18:48:31-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_010", "usuario": "user_010", "ip": "192.168.1.169"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T16:10:02-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_084", "usuario": "user_084", "ip": "192.168.1.202"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T20:39:05-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_065", "usuario": "user_065", "ip": "192.168.1.205"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:32:34-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_043", "usuario": "user_043", "ip": "192.168.1.18"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T11:24:20-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_062", "usuario": "user_062", "ip": "192.168.1.135"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T12:39:13-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_076", "usuario": "user_076", "ip": "192.168.1.59"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T16:15:52-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_069", "usuario": "user_069", "ip": "192.168.1.153"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T22:16:24-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_092", "usuario": "user_092", "ip": "192.168.1.214"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T01:35:28-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_092", "usuario": "user_092", "ip": "192.168.1.233"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T19:40:35-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_054", "usuario": "user_054", "ip": "192.168.1.142"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:36:10-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_085", "usuario": "user_085", "ip": "192.168.1.132"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T12:42:42-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_022", "usuario": "user_022", "ip": "192.168.1.237"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T01:04:59-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_037", "usuario": "user_037", "ip": "192.168.1.179"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T17:49:35-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_020", "usuario": "user_020", "ip": "192.168.1.217"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T21:45:45-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_029", "usuario": "user_029", "ip": "192.168.1.146"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T18:05:48-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_073", "usuario": "user_073", "ip": "192.168.1.87"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T01:44:33-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_083", "usuario": "user_083", "ip": "192.168.1.120"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T13:55:18-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_074", "usuario": "user_074", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T17:33:38-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_061", "usuario": "user_061", "ip": "192.168.1.73"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T04:27:46-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_035", "usuario": "user_035", "ip": "192.168.1.152"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T20:25:24-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_086", "usuario": "user_086", "ip": "192.168.1.38"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T14:35:15-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_059", "usuario": "user_059", "ip": "192.168.1.133"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T05:58:10-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_013", "usuario": "user_013", "ip": "192.168.1.222"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T14:27:21-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_024", "usuario": "user_024", "ip": "192.168.1.88"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T03:11:00-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_032", "usuario": "user_032", "ip": "192.168.1.2"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T16:41:58-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_061", "usuario": "user_061", "ip": "192.168.1.11"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T03:33:58-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_087", "usuario": "user_087", "ip": "192.168.1.202"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T11:37:27-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_055", "usuario": "user_055", "ip": "192.168.1.112"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T17:06:20-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_002", "usuario": "user_002", "ip": "192.168.1.244"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T17:41:49-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_042", "usuario": "user_042", "ip": "192.168.1.252"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T05:34:10-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_072", "usuario": "user_072", "ip": "192.168.1.198"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T05:54:49-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_049", "usuario": "user_049", "ip": "192.168.1.158"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:56:54-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_006", "usuario": "user_006", "ip": "192.168.1.101"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T20:01:40-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_008", "usuario": "user_008", "ip": "192.168.1.65"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T06:57:01-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_009", "usuario": "user_009", "ip": "192.168.1.162"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:40:48-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_081", "usuario": "user_081", "ip": "192.168.1.242"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:45:19-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_031", "usuario": "user_031", "ip": "192.168.1.146"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T03:03:01-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_076", "usuario": "user_076", "ip": "192.168.1.201"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T00:12:37-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_078", "usuario": "user_078", "ip": "192.168.1.86"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T09:37:59-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_081", "usuario": "user_081", "ip": "192.168.1.159"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T22:14:48-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_096", "usuario": "user_096", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T04:42:32-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_036", "usuario": "user_036", "ip": "192.168.1.6"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T08:28:37-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_036", "usuario": "user_036", "ip": "192.168.1.109"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T17:15:24-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_083", "usuario": "user_083", "ip": "192.168.1.251"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:42:52-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_064", "usuario": "user_064", "ip": "192.168.1.61"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T05:31:57-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_065", "usuario": "user_065", "ip": "192.168.1.240"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T13:36:09-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_066", "usuario": "user_066", "ip": "192.168.1.160"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T06:15:46-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_016", "usuario": "user_016", "ip": "192.168.1.250"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T21:59:02-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_090", "usuario": "user_090", "ip": "192.168.1.32"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T04:08:23-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_056", "usuario": "user_056", "ip": "192.168.1.156"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T21:05:08-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_060", "usuario": "user_060", "ip": "192.168.1.220"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T04:18:10-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_042", "usuario": "user_042", "ip": "192.168.1.242"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:56:37-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_019", "usuario": "user_019", "ip": "192.168.1.45"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T00:44:50-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_021", "usuario": "user_021", "ip": "192.168.1.230"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T19:54:03-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_097", "usuario": "user_097", "ip": "192.168.1.86"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T17:14:44-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_062", "usuario": "user_062", "ip": "192.168.1.88"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T02:51:34-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_027", "usuario": "user_027", "ip": "192.168.1.8"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T12:56:47-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_056", "usuario": "user_056", "ip": "192.168.1.73"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T12:40:27-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_067", "usuario": "user_067", "ip": "192.168.1.98"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T07:54:13-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_086", "usuario": "user_086", "ip": "192.168.1.137"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T10:40:41-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_093", "usuario": "user_093", "ip": "192.168.1.253"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T16:46:33-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_021", "usuario": "user_021", "ip": "192.168.1.63"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T07:33:56-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_055", "usuario": "user_055", "ip": "192.168.1.220"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T02:46:52-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_016", "usuario": "user_016", "ip": "192.168.1.44"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T10:01:21-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_092", "usuario": "user_092", "ip": "192.168.1.93"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T23:02:37-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_005", "usuario": "user_005", "ip": "192.168.1.234"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T13:27:43-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_068", "usuario": "user_068", "ip": "192.168.1.197"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T09:58:54-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_009", "usuario": "user_009", "ip": "192.168.1.95"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:55:41-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_059", "usuario": "user_059", "ip": "192.168.1.171"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T23:43:01-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_084", "usuario": "user_084", "ip": "192.168.1.6"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T22:49:56-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_030", "usuario": "user_030", "ip": "192.168.1.246"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T08:34:00-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_097", "usuario": "user_097", "ip": "192.168.1.34"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T15:54:45-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_090", "usuario": "user_090", "ip": "192.168.1.142"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:07:50-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_096", "usuario": "user_096", "ip": "192.168.1.169"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:57:44-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_072", "usuario": "user_072", "ip": "192.168.1.12"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T05:40:50-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_071", "usuario": "user_071", "ip": "192.168.1.204"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T02:51:37-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_060", "usuario": "user_060", "ip": "192.168.1.29"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T16:30:43-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_051", "usuario": "user_051", "ip": "192.168.1.191"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T23:59:07-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_054", "usuario": "user_054", "ip": "192.168.1.89"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T20:59:29-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_029", "usuario": "user_029", "ip": "192.168.1.75"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T06:20:09-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_016", "usuario": "user_016", "ip": "192.168.1.210"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T12:04:40-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_061", "usuario": "user_061", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T11:37:48-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_060", "usuario": "user_060", "ip": "192.168.1.111"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T07:56:17-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_026", "usuario": "user_026", "ip": "192.168.1.95"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T12:50:25-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_016", "usuario": "user_016", "ip": "192.168.1.117"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T23:15:08-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_018", "usuario": "user_018", "ip": "192.168.1.63"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T14:07:00-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_026", "usuario": "user_026", "ip": "192.168.1.123"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T06:31:06-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_080", "usuario": "user_080", "ip": "192.168.1.9"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T19:28:53-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_058", "usuario": "user_058", "ip": "192.168.1.49"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T08:27:17-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_046", "usuario": "user_046", "ip": "192.168.1.138"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T13:48:28-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_044", "usuario": "user_044", "ip": "192.168.1.219"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:18:06-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_024", "usuario": "user_024", "ip": "192.168.1.251"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T00:20:06-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_088", "usuario": "user_088", "ip": "192.168.1.116"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T17:59:53-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_096", "usuario": "user_096", "ip": "192.168.1.162"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T14:52:20-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_011", "usuario": "user_011", "ip": "192.168.1.110"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T13:53:23-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_037", "usuario": "user_037", "ip": "192.168.1.118"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T12:18:41-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_006", "usuario": "user_006", "ip": "192.168.1.60"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T02:29:09-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_054", "usuario": "user_054", "ip": "192.168.1.241"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T11:02:21-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_031", "usuario": "user_031", "ip": "192.168.1.166"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T07:31:55-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_032", "usuario": "user_032", "ip": "192.168.1.30"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T01:57:51-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_054", "usuario": "user_054", "ip": "192.168.1.157"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T18:32:46-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_016", "usuario": "user_016", "ip": "192.168.1.199"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T23:33:23-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_059", "usuario": "user_059", "ip": "192.168.1.13"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T20:35:03-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_039", "usuario": "user_039", "ip": "192.168.1.24"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T21:46:50-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_087", "usuario": "user_087", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T19:48:08-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_067", "usuario": "user_067", "ip": "192.168.1.85"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T04:03:33-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_036", "usuario": "user_036", "ip": "192.168.1.160"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T22:13:08-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_024", "usuario": "user_024", "ip": "192.168.1.9"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:47:59-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_086", "usuario": "user_086", "ip": "192.168.1.106"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T12:43:50-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_092", "usuario": "user_092", "ip": "192.168.1.238"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T04:03:18-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_031", "usuario": "user_031", "ip": "192.168.1.9"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T02:38:08-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_036", "usuario": "user_036", "ip": "192.168.1.163"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T11:51:06-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_005", "usuario": "user_005", "ip": "192.168.1.51"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T20:04:45-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_074", "usuario": "user_074", "ip": "192.168.1.212"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T08:40:45-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_041", "usuario": "user_041", "ip": "192.168.1.210"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T19:52:18-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_025", "usuario": "user_025", "ip": "192.168.1.113"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:30:00-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_039", "usuario": "user_039", "ip": "192.168.1.194"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T17:08:12-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_096", "usuario": "user_096", "ip": "192.168.1.60"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T12:13:37-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_044", "usuario": "user_044", "ip": "192.168.1.11"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T08:11:43-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_068", "usuario": "user_068", "ip": "192.168.1.132"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T01:27:33-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_064", "usuario": "user_064", "ip": "192.168.1.66"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T19:58:05-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_041", "usuario": "user_041", "ip": "192.168.1.150"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T23:50:31-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_057", "usuario": "user_057", "ip": "192.168.1.173"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T07:09:40-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_069", "usuario": "user_069", "ip": "192.168.1.170"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T19:55:35-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_039", "usuario": "user_039", "ip": "192.168.1.15"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T16:47:13-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_055", "usuario": "user_055", "ip": "192.168.1.246"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T18:01:02-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_075", "usuario": "user_075", "ip": "192.168.1.65"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T05:37:58-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_028", "usuario": "user_028", "ip": "192.168.1.181"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T13:26:46-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_053", "usuario": "user_053", "ip": "192.168.1.35"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T22:39:10-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_027", "usuario": "user_027", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T09:55:52-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_079", "usuario": "user_079", "ip": "192.168.1.104"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:51:37-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Archivo no encontrado user_008", "usuario": "user_008", "ip": "192.168.1.194"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T07:13:07-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_038", "usuario": "user_038", "ip": "192.168.1.77"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T00:51:52-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_078", "usuario": "user_078", "ip": "192.168.1.174"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T01:41:02-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_001", "usuario": "user_001", "ip": "192.168.1.112"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T20:06:11-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_099", "usuario": "user_099", "ip": "192.168.1.52"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T17:17:47-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_075", "usuario": "user_075", "ip": "192.168.1.239"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T05:22:03-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_097", "usuario": "user_097", "ip": "192.168.1.90"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:52:03-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_077", "usuario": "user_077", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T05:03:33-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_050", "usuario": "user_050", "ip": "192.168.1.73"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T03:15:50-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_065", "usuario": "user_065", "ip": "192.168.1.144"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T10:36:59-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_053", "usuario": "user_053", "ip": "192.168.1.208"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T18:44:23-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_081", "usuario": "user_081", "ip": "192.168.1.155"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T18:50:44-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_010", "usuario": "user_010", "ip": "192.168.1.149"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T05:51:03-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_041", "usuario": "user_041", "ip": "192.168.1.191"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T08:19:05-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_013", "usuario": "user_013", "ip": "192.168.1.3"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T00:39:20-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_030", "usuario": "user_030", "ip": "192.168.1.28"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T20:50:02-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_096", "usuario": "user_096", "ip": "192.168.1.97"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T12:41:29-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_060", "usuario": "user_060", "ip": "192.168.1.195"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T13:37:48-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_035", "usuario": "user_035", "ip": "192.168.1.126"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T21:22:36-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_046", "usuario": "user_046", "ip": "192.168.1.145"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T10:11:41-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_077", "usuario": "user_077", "ip": "192.168.1.84"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T21:37:50-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_026", "usuario": "user_026", "ip": "192.168.1.133"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T03:31:51-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_058", "usuario": "user_058", "ip": "192.168.1.148"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T08:08:29-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_038", "usuario": "user_038", "ip": "192.168.1.29"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T05:26:27-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_045", "usuario": "user_045", "ip": "192.168.1.110"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T10:07:59-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_062", "usuario": "user_062", "ip": "192.168.1.38"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:34:18-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_068", "usuario": "user_068", "ip": "192.168.1.147"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T10:23:46-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_070", "usuario": "user_070", "ip": "192.168.1.162"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T09:31:42-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_031", "usuario": "user_031", "ip": "192.168.1.158"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T15:26:48-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_009", "usuario": "user_009", "ip": "192.168.1.24"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T03:50:02-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_018", "usuario": "user_018", "ip": "192.168.1.46"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T13:05:30-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_060", "usuario": "user_060", "ip": "192.168.1.230"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T20:14:56-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_038", "usuario": "user_038", "ip": "192.168.1.110"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T20:32:10-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_037", "usuario": "user_037", "ip": "192.168.1.80"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T23:58:36-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_083", "usuario": "user_083", "ip": "192.168.1.74"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T02:12:55-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_018", "usuario": "user_018", "ip": "192.168.1.223"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T04:54:43-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_058", "usuario": "user_058", "ip": "192.168.1.181"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T11:11:10-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_071", "usuario": "user_071", "ip": "192.168.1.248"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T00:03:40-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_041", "usuario": "user_041", "ip": "192.168.1.167"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T11:33:03-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_040", "usuario": "user_040", "ip": "192.168.1.140"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:24:43-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_027", "usuario": "user_027", "ip": "192.168.1.88"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T17:41:53-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_034", "usuario": "user_034", "ip": "192.168.1.26"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T05:25:56-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_077", "usuario": "user_077", "ip": "192.168.1.72"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:15:34-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_027", "usuario": "user_027", "ip": "192.168.1.165"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T05:35:47-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_015", "usuario": "user_015", "ip": "192.168.1.131"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T23:26:08-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_031", "usuario": "user_031", "ip": "192.168.1.145"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T21:00:31-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_073", "usuario": "user_073", "ip": "192.168.1.73"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T00:53:15-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_063", "usuario": "user_063", "ip": "192.168.1.218"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T23:57:54-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_037", "usuario": "user_037", "ip": "192.168.1.230"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T04:45:41-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_063", "usuario": "user_063", "ip": "192.168.1.189"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T02:55:47-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_095", "usuario": "user_095", "ip": "192.168.1.145"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T03:04:11-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_037", "usuario": "user_037", "ip": "192.168.1.183"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T16:57:00-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_003", "usuario": "user_003", "ip": "192.168.1.206"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T10:19:17-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_087", "usuario": "user_087", "ip": "192.168.1.48"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T04:58:44-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_026", "usuario": "user_026", "ip": "192.168.1.11"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T19:32:26-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_051", "usuario": "user_051", "ip": "192.168.1.210"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T12:22:09-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_073", "usuario": "user_073", "ip": "192.168.1.61"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T06:30:26-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_078", "usuario": "user_078", "ip": "192.168.1.62"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T07:59:10-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_091", "usuario": "user_091", "ip": "192.168.1.48"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T13:15:26-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_097", "usuario": "user_097", "ip": "192.168.1.208"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T13:14:18-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_070", "usuario": "user_070", "ip": "192.168.1.96"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T06:19:23-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_055", "usuario": "user_055", "ip": "192.168.1.127"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T21:05:52-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_044", "usuario": "user_044", "ip": "192.168.1.98"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T18:24:47-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_001", "usuario": "user_001", "ip": "192.168.1.77"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T11:22:09-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_008", "usuario": "user_008", "ip": "192.168.1.169"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T09:17:51-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_061", "usuario": "user_061", "ip": "192.168.1.153"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T17:26:10-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_002", "usuario": "user_002", "ip": "192.168.1.68"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T12:06:33-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_010", "usuario": "user_010", "ip": "192.168.1.199"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T17:40:34-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_079", "usuario": "user_079", "ip": "192.168.1.194"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T21:42:51-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_082", "usuario": "user_082", "ip": "192.168.1.247"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:19:24-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_041", "usuario": "user_041", "ip": "192.168.1.54"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T21:54:39-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_044", "usuario": "user_044", "ip": "192.168.1.217"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T14:04:57-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_010", "usuario": "user_010", "ip": "192.168.1.75"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T20:30:41-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_025", "usuario": "user_025", "ip": "192.168.1.59"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T03:24:09-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_041", "usuario": "user_041", "ip": "192.168.1.55"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T00:58:58-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_002", "usuario": "user_002", "ip": "192.168.1.8"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T17:56:24-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_045", "usuario": "user_045", "ip": "192.168.1.100"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T15:41:51-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_053", "usuario": "user_053", "ip": "192.168.1.12"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T12:46:31-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_019", "usuario": "user_019", "ip": "192.168.1.205"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T02:46:14-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_058", "usuario": "user_058", "ip": "192.168.1.199"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T09:26:00-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_019", "usuario": "user_019", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T14:20:11-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_026", "usuario": "user_026", "ip": "192.168.1.162"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T02:35:01-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_017", "usuario": "user_017", "ip": "192.168.1.174"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T02:04:55-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_006", "usuario": "user_006", "ip": "192.168.1.176"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T19:36:57-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_067", "usuario": "user_067", "ip": "192.168.1.143"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T10:47:27-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_073", "usuario": "user_073", "ip": "192.168.1.214"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T19:01:25-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_022", "usuario": "user_022", "ip": "192.168.1.197"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T15:58:38-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_025", "usuario": "user_025", "ip": "192.168.1.17"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T19:46:17-05:00", "ubicacion": "Barranquilla", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_024", "usuario": "user_024", "ip": "192.168.1.8"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T13:44:58-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_083", "usuario": "user_083", "ip": "192.168.1.121"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:37:19-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_036", "usuario": "user_036", "ip": "192.168.1.149"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T06:51:56-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_062", "usuario": "user_062", "ip": "192.168.1.44"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T13:34:22-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_009", "usuario": "user_009", "ip": "192.168.1.61"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:42:05-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_078", "usuario": "user_078", "ip": "192.168.1.34"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T00:54:42-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_032", "usuario": "user_032", "ip": "192.168.1.161"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T13:00:30-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_012", "usuario": "user_012", "ip": "192.168.1.12"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T12:27:03-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_064", "usuario": "user_064", "ip": "192.168.1.189"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T17:49:00-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_017", "usuario": "user_017", "ip": "192.168.1.114"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:51:31-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_064", "usuario": "user_064", "ip": "192.168.1.228"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T13:41:56-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_005", "usuario": "user_005", "ip": "192.168.1.239"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T09:31:06-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_027", "usuario": "user_027", "ip": "192.168.1.180"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T23:47:49-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_066", "usuario": "user_066", "ip": "192.168.1.47"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T09:29:49-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_092", "usuario": "user_092", "ip": "192.168.1.81"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T06:50:52-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_043", "usuario": "user_043", "ip": "192.168.1.103"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:28:17-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_027", "usuario": "user_027", "ip": "192.168.1.228"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T05:06:05-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_030", "usuario": "user_030", "ip": "192.168.1.101"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T20:15:30-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_097", "usuario": "user_097", "ip": "192.168.1.123"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T15:32:42-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_079", "usuario": "user_079", "ip": "192.168.1.108"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T10:39:04-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_044", "usuario": "user_044", "ip": "192.168.1.196"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T23:22:26-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_030", "usuario": "user_030", "ip": "192.168.1.243"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T09:26:21-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_086", "usuario": "user_086", "ip": "192.168.1.244"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T10:26:47-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_055", "usuario": "user_055", "ip": "192.168.1.226"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T16:29:29-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_019", "usuario": "user_019", "ip": "192.168.1.248"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T17:20:42-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_066", "usuario": "user_066", "ip": "192.168.1.24"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T09:37:48-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_087", "usuario": "user_087", "ip": "192.168.1.54"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T04:07:18-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_021", "usuario": "user_021", "ip": "192.168.1.151"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:59:55-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_094", "usuario": "user_094", "ip": "192.168.1.74"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T14:09:41-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 4, "mensaje": "Timeout servicio user_091", "usuario": "user_091", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T00:35:47-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_091", "usuario": "user_091", "ip": "192.168.1.250"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T13:52:40-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_080", "usuario": "user_080", "ip": "192.168.1.17"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T07:30:12-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_036", "usuario": "user_036", "ip": "192.168.1.156"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T08:33:32-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_030", "usuario": "user_030", "ip": "192.168.1.54"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T04:24:50-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_043", "usuario": "user_043", "ip": "192.168.1.197"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T10:19:37-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_077", "usuario": "user_077", "ip": "192.168.1.35"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T14:09:48-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_075", "usuario": "user_075", "ip": "192.168.1.122"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T10:29:46-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_027", "usuario": "user_027", "ip": "192.168.1.176"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T00:51:13-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_042", "usuario": "user_042", "ip": "192.168.1.128"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:22:00-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_056", "usuario": "user_056", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:35:26-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_010", "usuario": "user_010", "ip": "192.168.1.122"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T22:25:16-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_007", "usuario": "user_007", "ip": "192.168.1.196"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T03:23:30-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_029", "usuario": "user_029", "ip": "192.168.1.45"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T16:32:50-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 200 OK user_069", "usuario": "user_069", "ip": "192.168.1.203"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T08:51:07-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_046", "usuario": "user_046", "ip": "192.168.1.124"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T05:38:44-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_077", "usuario": "user_077", "ip": "192.168.1.94"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T09:48:17-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_043", "usuario": "user_043", "ip": "192.168.1.230"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T14:37:51-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_039", "usuario": "user_039", "ip": "192.168.1.196"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T23:23:39-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_014", "usuario": "user_014", "ip": "192.168.1.223"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T12:17:52-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_093", "usuario": "user_093", "ip": "192.168.1.16"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T05:52:31-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_099", "usuario": "user_099", "ip": "192.168.1.113"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T06:21:31-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_046", "usuario": "user_046", "ip": "192.168.1.35"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T16:21:13-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_081", "usuario": "user_081", "ip": "192.168.1.153"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T01:46:16-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_023", "usuario": "user_023", "ip": "192.168.1.248"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:05:26-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_047", "usuario": "user_047", "ip": "192.168.1.227"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T22:53:29-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_029", "usuario": "user_029", "ip": "192.168.1.238"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T00:56:46-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 2, "mensaje": "Login fallido usuario user_044", "usuario": "user_044", "ip": "192.168.1.63"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T08:24:13-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_023", "usuario": "user_023", "ip": "192.168.1.92"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T07:44:08-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_069", "usuario": "user_069", "ip": "192.168.1.140"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T21:55:57-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_052", "usuario": "user_052", "ip": "192.168.1.133"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T12:29:53-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_026", "usuario": "user_026", "ip": "192.168.1.172"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T02:13:09-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_025", "usuario": "user_025", "ip": "192.168.1.96"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T22:31:54-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_017", "usuario": "user_017", "ip": "192.168.1.239"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:42:23-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_077", "usuario": "user_077", "ip": "192.168.1.143"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T22:50:58-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_061", "usuario": "user_061", "ip": "192.168.1.105"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T01:30:45-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_024", "usuario": "user_024", "ip": "192.168.1.140"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T01:25:20-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_006", "usuario": "user_006", "ip": "192.168.1.202"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T14:33:23-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_046", "usuario": "user_046", "ip": "192.168.1.214"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T18:24:11-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_084", "usuario": "user_084", "ip": "192.168.1.95"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T01:01:24-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga completada user_081", "usuario": "user_081", "ip": "192.168.1.161"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T14:04:40-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_081", "usuario": "user_081", "ip": "192.168.1.235"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T04:16:42-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_087", "usuario": "user_087", "ip": "192.168.1.206"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T14:14:02-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_020", "usuario": "user_020", "ip": "192.168.1.17"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T03:01:33-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_037", "usuario": "user_037", "ip": "192.168.1.218"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T01:55:26-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_092", "usuario": "user_092", "ip": "192.168.1.234"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T06:16:45-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_010", "usuario": "user_010", "ip": "192.168.1.28"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T07:59:53-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Intento fuerza bruta user_069", "usuario": "user_069", "ip": "192.168.1.84"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T02:36:05-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_032", "usuario": "user_032", "ip": "192.168.1.127"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T11:43:33-05:00", "ubicacion": "Bogotá", "tipo_evento": "logout", "severidad": 1, "mensaje": "Logout OK usuario user_050", "usuario": "user_050", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T23:57:58-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_002", "usuario": "user_002", "ip": "192.168.1.29"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:43:40-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_067", "usuario": "user_067", "ip": "192.168.1.83"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T15:48:04-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_081", "usuario": "user_081", "ip": "192.168.1.31"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T15:39:55-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_070", "usuario": "user_070", "ip": "192.168.1.34"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T19:36:29-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_008", "usuario": "user_008", "ip": "192.168.1.18"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T09:26:20-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_078", "usuario": "user_078", "ip": "192.168.1.228"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T20:10:46-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_052", "usuario": "user_052", "ip": "192.168.1.44"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T12:53:07-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_056", "usuario": "user_056", "ip": "192.168.1.218"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T18:22:34-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_028", "usuario": "user_028", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T04:46:39-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_015", "usuario": "user_015", "ip": "192.168.1.99"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T08:37:07-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_048", "usuario": "user_048", "ip": "192.168.1.184"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T11:54:29-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_038", "usuario": "user_038", "ip": "192.168.1.188"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T15:00:22-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_014", "usuario": "user_014", "ip": "192.168.1.63"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T08:03:29-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_024", "usuario": "user_024", "ip": "192.168.1.184"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T01:40:21-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "Timeout servicio user_027", "usuario": "user_027", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T13:27:12-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_035", "usuario": "user_035", "ip": "192.168.1.232"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T20:43:21-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_082", "usuario": "user_082", "ip": "192.168.1.223"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T10:02:54-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_042", "usuario": "user_042", "ip": "192.168.1.61"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T05:57:56-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "MFA requerido usuario user_014", "usuario": "user_014", "ip": "192.168.1.113"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T17:57:42-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_087", "usuario": "user_087", "ip": "192.168.1.120"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T17:57:33-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_019", "usuario": "user_019", "ip": "192.168.1.193"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:15:30-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_059", "usuario": "user_059", "ip": "192.168.1.16"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T18:45:00-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_020", "usuario": "user_020", "ip": "192.168.1.252"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T10:35:15-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_009", "usuario": "user_009", "ip": "192.168.1.162"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T08:58:27-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 4, "mensaje": "DB connection error user_013", "usuario": "user_013", "ip": "192.168.1.182"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T08:53:18-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "NullReference en módulo user_025", "usuario": "user_025", "ip": "192.168.1.37"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T10:29:44-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_048", "usuario": "user_048", "ip": "192.168.1.19"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T07:32:08-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_079", "usuario": "user_079", "ip": "192.168.1.85"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T00:18:36-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_058", "usuario": "user_058", "ip": "192.168.1.207"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T16:29:35-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_099", "usuario": "user_099", "ip": "192.168.1.36"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T22:11:53-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_063", "usuario": "user_063", "ip": "192.168.1.43"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T16:40:20-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_052", "usuario": "user_052", "ip": "192.168.1.168"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T11:36:32-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 2, "mensaje": "Logout OK usuario user_057", "usuario": "user_057", "ip": "192.168.1.76"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T21:41:57-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_039", "usuario": "user_039", "ip": "192.168.1.249"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T09:48:48-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_037", "usuario": "user_037", "ip": "192.168.1.121"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T21:40:58-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_022", "usuario": "user_022", "ip": "192.168.1.208"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T14:42:41-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_083", "usuario": "user_083", "ip": "192.168.1.22"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T00:56:43-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_021", "usuario": "user_021", "ip": "192.168.1.233"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T22:26:37-05:00", "ubicacion": "Barranquilla", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_056", "usuario": "user_056", "ip": "192.168.1.212"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T18:16:16-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Token inválido repetido user_013", "usuario": "user_013", "ip": "192.168.1.221"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T22:15:48-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_026", "usuario": "user_026", "ip": "192.168.1.44"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T07:49:42-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_067", "usuario": "user_067", "ip": "192.168.1.134"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T20:47:34-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_017", "usuario": "user_017", "ip": "192.168.1.191"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T23:13:07-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 2, "mensaje": "Sesión expirada usuario user_077", "usuario": "user_077", "ip": "192.168.1.226"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T00:10:28-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_077", "usuario": "user_077", "ip": "192.168.1.83"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T07:29:53-05:00", "ubicacion": "Medellín", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_092", "usuario": "user_092", "ip": "192.168.1.30"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T04:40:39-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_020", "usuario": "user_020", "ip": "192.168.1.37"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T11:12:29-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_068", "usuario": "user_068", "ip": "192.168.1.140"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:18:32-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_078", "usuario": "user_078", "ip": "192.168.1.90"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T19:18:45-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 3, "mensaje": "Login OK usuario user_097", "usuario": "user_097", "ip": "192.168.1.85"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T22:52:07-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_067", "usuario": "user_067", "ip": "192.168.1.232"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T18:34:05-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_068", "usuario": "user_068", "ip": "192.168.1.79"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T19:01:30-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_006", "usuario": "user_006", "ip": "192.168.1.212"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T22:36:47-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "NullReference en módulo user_030", "usuario": "user_030", "ip": "192.168.1.250"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T19:20:59-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_030", "usuario": "user_030", "ip": "192.168.1.209"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T18:39:51-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Token inválido repetido user_073", "usuario": "user_073", "ip": "192.168.1.220"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T05:40:14-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga bloqueada por policy user_016", "usuario": "user_016", "ip": "192.168.1.233"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:35:34-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga completada user_019", "usuario": "user_019", "ip": "192.168.1.137"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T19:03:32-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_032", "usuario": "user_032", "ip": "192.168.1.86"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T06:01:03-05:00", "ubicacion": "Medellín", "tipo_evento": "error_app", "severidad": 3, "mensaje": "DB connection error user_010", "usuario": "user_010", "ip": "192.168.1.51"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T03:48:25-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_082", "usuario": "user_082", "ip": "192.168.1.100"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T06:43:47-05:00", "ubicacion": "Bogotá", "tipo_evento": "login", "severidad": 2, "mensaje": "MFA requerido usuario user_075", "usuario": "user_075", "ip": "192.168.1.238"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T18:42:01-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_046", "usuario": "user_046", "ip": "192.168.1.96"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T12:01:40-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 429 rate limit user_002", "usuario": "user_002", "ip": "192.168.1.161"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T02:37:42-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 200 OK user_004", "usuario": "user_004", "ip": "192.168.1.240"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T01:03:07-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_081", "usuario": "user_081", "ip": "192.168.1.185"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T02:41:42-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 3, "mensaje": "Archivo no encontrado user_039", "usuario": "user_039", "ip": "192.168.1.25"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T09:17:36-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 2, "mensaje": "Archivo no encontrado user_037", "usuario": "user_037", "ip": "192.168.1.39"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T03:06:36-05:00", "ubicacion": "Cali", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 429 rate limit user_071", "usuario": "user_071", "ip": "192.168.1.182"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T18:06:48-05:00", "ubicacion": "Medellín", "tipo_evento": "logout", "severidad": 3, "mensaje": "Logout OK usuario user_036", "usuario": "user_036", "ip": "192.168.1.228"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T08:24:55-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_084", "usuario": "user_084", "ip": "192.168.1.76"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T21:54:14-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 3, "mensaje": "Sesión expirada usuario user_099", "usuario": "user_099", "ip": "192.168.1.32"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T21:01:56-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "error_app", "severidad": 5, "mensaje": "Timeout servicio user_058", "usuario": "user_058", "ip": "192.168.1.91"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T18:40:14-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_063", "usuario": "user_063", "ip": "192.168.1.236"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T18:39:46-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 500 internal error user_055", "usuario": "user_055", "ip": "192.168.1.40"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T01:27:09-05:00", "ubicacion": "Medellín", "tipo_evento": "api_call", "severidad": 2, "mensaje": "API 500 internal error user_081", "usuario": "user_081", "ip": "192.168.1.148"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T22:22:51-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 500 internal error user_066", "usuario": "user_066", "ip": "192.168.1.133"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T13:21:06-05:00", "ubicacion": "Bogotá", "tipo_evento": "error_app", "severidad": 5, "mensaje": "DB connection error user_010", "usuario": "user_010", "ip": "192.168.1.132"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T19:47:44-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_086", "usuario": "user_086", "ip": "192.168.1.78"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T15:38:34-05:00", "ubicacion": "Bogotá", "tipo_evento": "download", "severidad": 4, "mensaje": "Descarga bloqueada por policy user_086", "usuario": "user_086", "ip": "192.168.1.228"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T07:12:52-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_047", "usuario": "user_047", "ip": "192.168.1.212"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T13:36:08-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_046", "usuario": "user_046", "ip": "192.168.1.199"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-14T13:05:16-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_093", "usuario": "user_093", "ip": "192.168.1.31"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T16:04:04-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 3, "mensaje": "MFA requerido usuario user_013", "usuario": "user_013", "ip": "192.168.1.83"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T06:35:39-05:00", "ubicacion": "Cali", "tipo_evento": "login", "severidad": 1, "mensaje": "Login OK usuario user_084", "usuario": "user_084", "ip": "192.168.1.64"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T00:50:54-05:00", "ubicacion": "Cali", "tipo_evento": "logout", "severidad": 1, "mensaje": "Sesión expirada usuario user_059", "usuario": "user_059", "ip": "192.168.1.194"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-18T11:55:07-05:00", "ubicacion": "Cali", "tipo_evento": "fraude", "severidad": 4, "mensaje": "Acceso sospechoso user_060", "usuario": "user_060", "ip": "192.168.1.140"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T02:36:49-05:00", "ubicacion": "Bucaramanga", "tipo_evento": "login", "severidad": 3, "mensaje": "Login fallido usuario user_030", "usuario": "user_030", "ip": "192.168.1.134"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T15:01:17-05:00", "ubicacion": "Medellín", "tipo_evento": "login", "severidad": 2, "mensaje": "Login OK usuario user_037", "usuario": "user_037", "ip": "192.168.1.96"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T06:50:22-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Intento fuerza bruta user_066", "usuario": "user_066", "ip": "192.168.1.198"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-12T22:45:34-05:00", "ubicacion": "Barranquilla", "tipo_evento": "login", "severidad": 1, "mensaje": "Login fallido usuario user_004", "usuario": "user_004", "ip": "192.168.1.40"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T11:16:25-05:00", "ubicacion": "Bogotá", "tipo_evento": "api_call", "severidad": 4, "mensaje": "API 200 OK user_087", "usuario": "user_087", "ip": "192.168.1.35"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T14:24:15-05:00", "ubicacion": "Medellín", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_036", "usuario": "user_036", "ip": "192.168.1.243"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T17:39:59-05:00", "ubicacion": "Bogotá", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_058", "usuario": "user_058", "ip": "192.168.1.132"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-13T18:26:47-05:00", "ubicacion": "Cali", "tipo_evento": "error_app", "severidad": 4, "mensaje": "NullReference en módulo user_095", "usuario": "user_095", "ip": "192.168.1.235"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-17T14:41:13-05:00", "ubicacion": "Barranquilla", "tipo_evento": "download", "severidad": 2, "mensaje": "Descarga completada user_004", "usuario": "user_004", "ip": "192.168.1.177"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-19T00:15:21-05:00", "ubicacion": "Cali", "tipo_evento": "download", "severidad": 3, "mensaje": "Descarga bloqueada por policy user_035", "usuario": "user_035", "ip": "192.168.1.41"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-16T19:11:59-05:00", "ubicacion": "Barranquilla", "tipo_evento": "api_call", "severidad": 3, "mensaje": "API 429 rate limit user_095", "usuario": "user_095", "ip": "192.168.1.64"}
+{"index": {"_index": "eventos_lab"}}
+{"@timestamp": "2025-12-15T23:35:08-05:00", "ubicacion": "Barranquilla", "tipo_evento": "fraude", "severidad": 5, "mensaje": "Acceso sospechoso user_027", "usuario": "user_027", "ip": "192.168.1.158"}
