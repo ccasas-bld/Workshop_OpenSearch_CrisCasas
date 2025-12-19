@@ -68,5 +68,42 @@ Verificar OpenSearch API (HTTPS):
 ```bash
 curl -k -u admin:<TU_PASSWORD_FUERTE_AQUI> https://localhost:9200
 ```
+Abrir OpenSearch Dashboards (UI):
 
+URL: http://localhost:5601
+Usuario: admin
+Password: el definido en .env
 
+## 4) Cargar datasets
+### 4.1 Dataset de ejemplo (Sample data)
+
+En OpenSearch Dashboards:
+
+Home → Add sample data
+
+Cargar “Sample web logs”
+
+Validar en Discover
+
+### 4.2 Dataset manual (requisito 2.c) — índice eventos_lab
+
+En Dashboards → Management → Dev Tools.
+
+Crear índice con mapping (sin * en el nombre del índice):
+
+```http
+PUT eventos_lab
+{
+  "mappings": {
+    "properties": {
+      "@timestamp": { "type": "date" },
+      "ubicacion":  { "type": "keyword" },
+      "tipo_evento":{ "type": "keyword" },
+      "severidad":  { "type": "integer" },
+      "mensaje":    { "type": "text" },
+      "usuario":    { "type": "keyword" },
+      "ip":         { "type": "ip" }
+    }
+  }
+}
+```
